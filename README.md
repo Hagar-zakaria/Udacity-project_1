@@ -69,6 +69,8 @@ In this analysis we tried to understand the factors affecting the booking prices
 
 Credit is due to Airbnb and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle) . Otherwise, feel free to use the code here as you would like!
 
+My Medium Blog Post is [Here](https://medium.com/@hagar.agha93/analyzing-seattle-airbnb-using-data-science-approaches-d5fa942b2039)
+
 
 
 
