@@ -32,9 +32,13 @@ I will be using Airbnb data for the city of Seattle with the interest of determi
 ## File Descriptions
 seattle_airbnb_exploratory_data_analysis/
 ├── README.md
+
 ├── calendar.csv
+
 ├── listings.csv
+
 ├── reviews.csv
+
 ├── seattle_airbnb.ipynb
 
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
