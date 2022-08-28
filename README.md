@@ -1,17 +1,18 @@
 # Writing a Data Scientist Blog Post
-This is my first project in the Udacity Nanodegree, and the aim of this project is to use the CRISP-DM Methodology to provide answers to some business questions.
+This is my first project for the Udacity Nanodegree, and the goal is to use the CRISP-DM Methodology to answer some business questions.
 
 ## Libraries
-Libraries which necessary to run all cells in the Jupyter Notebook are as follows:
+The following libraries are required to run all cells in the Jupyter Notebook:
 
-- pandas:  For creating and manipulating dataframes and using in-built functions and features for data manipulation
-- numpy:   For creating and manipulating dataframes and using in-built functions and features for data manipulation
-- matplotlib: For generating plots and various data visualizations
-- seaborn: A wrapper for matplotlib that generates compelling visualizations
-- sklearn:  To develop a linear regression machine learning model for the inflow-outflow ratio
+- pandas: For creating and manipulating dataframes, as well as using built-in data manipulation functions and features
+- numpy: For creating and manipulating dataframes, as well as using built-in data manipulation functions and features
+- matplotlib: For creating plots and other types of data visualizations.
+- seaborn: A matplotlib wrapper that produces eye-catching visualizations
+- sklearn: Create a linear regression machine learning model for inflow data.
+
 
 ## Project Motivation
-I will be using Airbnb data for the city of Seattle with the interest of determining where to stay based on many criteria:
+I intend to use Airbnb data for the city of Seattle to determine where to stay based on a variety of criteria:
 
 -What are the most popular neighborhoods?
 
@@ -30,7 +31,7 @@ I will be using Airbnb data for the city of Seattle with the interest of determi
 -What other factors affect flat prices?
 
 ## File Descriptions
-seattle_airbnb_exploratory_data_analysis/
+
 ├── README.md
 
 ├── calendar.csv
@@ -41,33 +42,33 @@ seattle_airbnb_exploratory_data_analysis/
 
 ├── seattle_airbnb.ipynb
 
-There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is one notebook available for displaying work related to the questions above. Markdown cells were used to help with the thought process for individual steps.
 
-There 3 csv files used for the analysis are downloaded from kaggle.
+The three csv files used in the analysis were obtained from Kaggle.
 
 ## Results
 
-In this analysis we tried to understand the factors affecting the booking prices with the help of Airbnb Seattle data. The above approach can be used to analyze Airbnb data for other cities as well.
+Using data from Airbnb Seattle, we attempted to understand the factors influencing booking prices in this analysis. The method described above can also be used to analyze Airbnb data for other cities.
 
-*Based on the number of listings in a given neighborhood, the top five most popular neighborhoods are Broadway, Belltown, Wallingford, Fremont, and Minor.
+*According to the number of listings, the top five most popular neighborhoods are Broadway, Belltown, Wallingford, Fremont, and Minor.
 
-*The most expensive neighborhoods were Southeast Magnolia with an average. at 242, followed by Portage Bay at 227. The cheapest neighborhoods were Olympic Hills at 73 and Rainier Beach at 68.
+*The most expensive neighborhoods were Southeast Magnolia (average price of 242) and Portage Bay (average price of 227). Olympic Hills, at 73, and Rainier Beach, at 68, were the most affordable areas.
 
-*One night-stay in Airbnb Seattle would cost close to 91 dollars for a single person and 112 dollars for a couple.
+*A single night's stay in Airbnb Seattle would cost around 91 dollars and 112 dollars for a couple.
 
-*Summertime is busiest so the highest price during this season.
+*Because summer is the busiest season, the prices are the highest.
 
-*Houses and apartments occupy 90% of all Airbnb properties in Seattle with 1,733 houses followed by 1,708 apartments. Yurt, Dorm, and Chalet are available for Nell in Seattle.
+*With 1,733 houses and 1,708 apartments, houses and apartments account for 90% of all Airbnb properties in Seattle. Nell can stay in a Yurt, Dorm, or Chalet in Seattle.
 
-*The price does not affect the rating.
+*The price has no bearing on the rating.
 
-*People tend to give a more high rating.
+*People tend to give higher ratings.
 
-*Basic configuration of the properties (number of bedrooms, bathrooms, beds and accomodates) affect the booking price.
+*The booking price is affected by the basic configuration of the properties (number of bedrooms, bathrooms, beds, and accommodations).
 
 ## Licensing, Authors, Acknowledgements
 
-Credit is due to Airbnb and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle) . Otherwise, feel free to use the code here as you would like!
+Credit to Airbnb and Kaggle for the data. You can find data license and other descriptive information on the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle) . Otherwise, feel free to use the code here as you would like!
 
 My Medium Blog Post is [Here](https://medium.com/@hagar.agha93/analyzing-seattle-airbnb-using-data-science-approaches-d5fa942b2039)
 
