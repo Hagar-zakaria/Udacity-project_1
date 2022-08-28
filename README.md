@@ -19,13 +19,13 @@ I will be using Airbnb data for the city of Seattle with the interest of determi
 
 -How much would it cost for a couple per day to stay in Seattle Airbnb homes?
 
--The Most Busy time in the year?
+-The Busiest time of the year?
 
--What are the most common type of Airbnb properties in Seattle?
+-What are the most common types of Airbnb properties in Seattle?
 
 -Does the price influence the rating?
 
--The most given "Rating" ?
+-The most frequent “Rating”?
 
 -What other factors affect flat prices?
 
@@ -51,7 +51,7 @@ In this analysis we tried to understand the factors affecting the booking prices
 
 *Based on the number of listings in a given neighborhood, the top five most popular neighborhoods are Broadway, Belltown, Wallingford, Fremont, and Minor.
 
-*The top five most expensive neighborhoods are Southeast Magnolia, Portage Bay, Westlake, West Queen Anne, and Industrial District.
+*The most expensive neighborhoods were Southeast Magnolia with an average. at 242, followed by Portage Bay at 227. The cheapest neighborhoods were Olympic Hills at 73 and Rainier Beach at 68.
 
 *One night-stay in Airbnb Seattle would cost close to 91 dollars for a single person and 112 dollars for a couple.
 
